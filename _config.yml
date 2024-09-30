@@ -1,0 +1,24 @@
+title: TechExcel Extending Copilot for Microsoft 365
+description: *needs a description*.
+theme: just-the-docs
+
+aux_links:
+  "TechExcel: Extending Copilot for Microsoft 365 (level 300 / CSU) lab": 
+    - "https://github.com/microsoft/TechExcel-Extending-Copilot-for-Microsoft365"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: important
+    color: blue
+  new:
+    title: new
+    color: green
+  note:
+    title: note 
+    color: purple
+  warning:
+    title: warning
+    color: red
