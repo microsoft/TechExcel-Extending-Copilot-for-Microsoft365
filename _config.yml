@@ -3,7 +3,7 @@ description: needs a description
 theme: just-the-docs
 
 aux_links:
-  "TechExcel Extending Copilot for Microsoft 365 (level 300 / CSU) lab": 
+  "TechExcel Extending Copilot for Microsoft 365": 
     - "https://github.com/microsoft/TechExcel-Extending-Copilot-for-Microsoft365"
 
 callouts_level: quiet # or loud
