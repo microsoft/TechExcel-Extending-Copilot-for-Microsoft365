@@ -8,7 +8,7 @@ nav_order: 1
 
 **The estimated time to complete this lab is 120 minutes.**
 
-![extensibilityIMAGEbyChatGPT.jpg](instructions272221/extensibilityIMAGEbyChatGPT.jpg)
+![extensibilityIMAGEbyChatGPT.jpg](media/extensibilityIMAGEbyChatGPT.jpg)
 
 Contoso is a global company that sells a wide range of products and services through its e-commerce platform. Contoso has over 100,000 employees across different functions and locations and relies on various software tools and systems to manage its operations, customer relations, and innovation. 
 
