@@ -6,29 +6,41 @@ nav_order: 1
 
 # TechExcel: Extending Copilot for Microsoft 365 (level 300 / CSU) lab
 
-**The estimated time to complete this lab is x0 minutes.**
+**The estimated time to complete this lab is 120 minutes.**
 
-*insert script here*
+![extensibilityIMAGEbyChatGPT.jpg](instructions272221/extensibilityIMAGEbyChatGPT.jpg)
 
-To successfully complete this lab, you need to perform the following tasks:
+Contoso is a global company that sells a wide range of products and services through its e-commerce platform. Contoso has over 100,000 employees across different functions and locations and relies on various software tools and systems to manage its operations, customer relations, and innovation. 
 
-- **item 1**
-- **item 2**
-- **item 3**
-- **item 4**
+- However, Contoso faces several challenges with its existing IT infrastructure and software solutions, such as: 
+
+- Excessive costs and complexity of maintaining multiple legacy systems and applications. 
+
+- Low productivity and collaboration among employees due to siloed information and workflows 
+
+- Limited innovation and agility due to outdated and incompatible software tools 
+
+- Security and compliance risks due to lack of visibility and control over data and devices
+
+
+
+## The key objectives of this hands-on lab are: 
+
+- Explore the availability of pre-built Copilot extensibility solutions by examining the respective M365 Graph connector and Copilot plugin (Teams application) catalogs. 
+
+- Understand the architecture and code required to build a custom Graph connector (pro-code walkthrough)
+  
 
 ## Exercises
 
 This lab has exercises on:
 
-- item 1
-- item 2
-- item 3
-- item 4
-- ...
-- item x
+- Enhancing Copilot experience with Graph connectors
+- Building blocks of a Custom Graph connector 
 
-## Disclaimer
+---
+
+#### Disclaimer
 
 This presentation, demonstration, and demonstration model are for informational purposes only and (1) are not subject to SOC 1 and SOC 2 compliance audits, and (2) are not designed, intended or made available as a medical device(s) or as a substitute for professional medical advice, diagnosis, treatment or judgment. Microsoft makes no warranties, express or implied, in this presentation, demonstration, and demonstration model. Nothing in this presentation, demonstration, or demonstration model modifies any of the terms and conditions of Microsoft’s written and signed agreements. This is not an offer and applicable terms and the information provided are subject to revision and may be changed at any time by Microsoft.
 
@@ -38,7 +50,7 @@ The information contained in this presentation, demonstration and demonstration 
 
 No Microsoft technology, nor any of its component technologies, including the demonstration model, is intended or made available as a substitute for the professional advice, opinion, or judgment of (1) a certified financial services professional, or (2) a certified medical professional. Partners or customers are responsible for ensuring the regulatory compliance of any solution they build using Microsoft technologies.
 
-## Copyright
+#### Copyright
 
 © 2024 Microsoft Corporation. All rights reserved. 
 
