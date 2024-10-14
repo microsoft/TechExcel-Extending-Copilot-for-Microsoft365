@@ -10,9 +10,9 @@ nav_order: 1
 
 ![extensibilityIMAGEbyChatGPT.jpg](media/extensibilityIMAGEbyChatGPT.jpg)
 
-Contoso is a global company that sells a wide range of products and services through its e-commerce platform. Contoso has over 100,000 employees across different functions and locations and relies on various software tools and systems to manage its operations, customer relations, and innovation. 
+Best For You Organics is a global company that sells a wide range of products and services through its e-commerce platform. Best For You Organics has over 100,000 employees across different functions and locations and relies on various software tools and systems to manage its operations, customer relations, and innovation. 
 
-- However, Contoso faces several challenges with its existing IT infrastructure and software solutions, such as: 
+- However, Best For You Organics faces several challenges with its existing IT infrastructure and software solutions, such as: 
 
 - Excessive costs and complexity of maintaining multiple legacy systems and applications. 
 
