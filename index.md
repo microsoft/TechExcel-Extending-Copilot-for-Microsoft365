@@ -26,17 +26,30 @@ Best For You Organics is a global company that sells a wide range of products an
 
 ## The key objectives of this hands-on lab are: 
 
-- Explore the availability of pre-built Copilot extensibility solutions by examining the respective M365 Graph connector and Copilot plugin (Teams application) catalogs. 
+- Explore the availability of pre-built Copilot extensibility solutions by examining the respective M365 graph connector and Copilot plugin (Teams application) catalogs.  
+
+- Learn the deployment process and requirements of each by deploying a graph connector and Teams application that includes support for a plugin.  
+
+- Discover the low-code tools and expertise needed to build M365 API plugins and Declarative Copilots using Copilot Studio.  
+
+- Gain insights into the pro-code tools and expertise needed to build M365 API plugins and Declarative Copilots using Visual Studio Code and the Teams Toolkit.  
+
+- Obtain hands-on experience leveraging each of these extensions to summarize, extract, and create content using Copilot.
 
 - Understand the architecture and code required to build a custom Graph connector (pro-code walkthrough)
   
 
-## Exercises
+## Table of Contents 
 
-This lab has exercises on:
+Exercise 1: Enhance Copilot Experience with declarative agents
 
-- Enhancing Copilot experience with Graph connectors
-- Building blocks of a Custom Graph connector 
+Exercise 2: Build M365 Declarative Agent
+
+Exercise 3: Build M365 Copilot Plugin and include in Declarative Agent
+
+Exercise 4: Enhance Copilot Experience with Graph Connectors
+
+Exercise 5: Build a Custom Graph Connector
 
 ---
 
