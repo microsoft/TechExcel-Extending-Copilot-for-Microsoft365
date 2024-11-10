@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title | default: "Workshop Instructions" }}</title>
+  <link rel="stylesheet" href="/css/styles.css">
+  <script>
+    // Function to get scenario from URL and store it
+    function storeScenario() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const scenario = urlParams.get('scenario');
+      if (scenario) {
+        localStorage.setItem('scenario', scenario);
+      }
+    }
+    // Run the function on page load
+    document.addEventListener('DOMContentLoaded', storeScenario);
+  </script>
+</head>
+<body>
+  <h1>{{ page.title | default: "Welcome" }}</h1>
+  {{ content }}
+
+  <!-- Optional: Link to change scenario -->
+  <p><a href="/docs/index.html" onclick="localStorage.removeItem('scenario');">Change Environment</a></p>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const scenario = localStorage.getItem('scenario') || 'default';
+      const isimElements = document.querySelectorAll('.scenario-isim');
+      const byolElements = document.querySelectorAll('.scenario-byol');
+
+      if (scenario === 'isim') {
+        isimElements.forEach(el => el.style.display = 'block');
+        byolElements.forEach(el => el.style.display = 'none');
+      } else if (scenario === 'byol') {
+        isimElements.forEach(el => el.style.display = 'none');
+        byolElements.forEach(el => el.style.display = 'block');
+      } else {
+        // If no scenario is set, redirect to the selection page
+        window.location.href = '/docs/index.html';
+      }
+    });
+  </script>
+</body>
+</html>
