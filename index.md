@@ -11,7 +11,7 @@ nav_order: 1
 Please select your environment:
 
 - [Simulation steps](/docs/Ex01/Ex01.md?scenario=isim)
-- [Bring your own license](/docs/exercise1/task1.html?scenario=byol)
+- [Bring your own license](/docs/Ex01/Ex01.md?scenario=byol)
 
 ![extensibilityIMAGEbyChatGPT.jpg](media/extensibilityIMAGEbyChatGPT.jpg)
 
