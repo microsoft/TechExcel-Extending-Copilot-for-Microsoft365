@@ -8,6 +8,11 @@ nav_order: 1
 
 **The estimated time to complete this lab is 120 minutes.**
 
+Please select your environment:
+
+- [Simulation steps](/docs/Ex01/Ex01.md?scenario=isim)
+- [Bring your own license](/docs/exercise1/task1.html?scenario=byol)
+
 ![extensibilityIMAGEbyChatGPT.jpg](media/extensibilityIMAGEbyChatGPT.jpg)
 
 Best For You Organics is a global company that sells a wide range of products and services through its e-commerce platform. Best For You Organics has over 100,000 employees across different functions and locations and relies on various software tools and systems to manage its operations, customer relations, and innovation. 
