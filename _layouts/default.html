@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title | default: "Workshop Instructions" }}</title>
-  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="stylesheet" href="{{ /css/styles.css | relative_url }}">
   <script>
     // Function to get scenario from URL and store it
     function storeScenario() {
