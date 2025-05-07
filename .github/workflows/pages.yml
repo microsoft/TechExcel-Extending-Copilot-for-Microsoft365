@@ -47,7 +47,9 @@ jobs:
         env:
           JEKYLL_ENV: production
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: https://microsoft.github.io/TechExcel-Extending-Copilot-for-Microsoft365
  
   # Deployment job
   deploy:
