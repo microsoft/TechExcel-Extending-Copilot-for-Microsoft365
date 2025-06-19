@@ -42,7 +42,7 @@ Best For You Organics is a global company that sells a wide range of products an
 - Understand the architecture and code required to build a custom Graph connector (pro-code walkthrough)
   
 
-## Table of Contents 
+## Exercises 
 
 Exercise 1: Enhance Copilot Experience with declarative agents
 
